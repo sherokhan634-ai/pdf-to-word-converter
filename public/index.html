@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF to Word Converter – Free, Fast & Secure Online Tool</title>
+    <meta name="description" content="Convert PDF to Word (DOCX) online for free. Fast, secure, and easy-to-use PDF to Word converter. No registration required.">
+    <link rel="canonical" href="https://yourdomain.com/" />
+    <!-- Open Graph -->
+    <meta property="og:title" content="PDF to Word Converter – Free, Fast & Secure Online Tool">
+    <meta property="og:description" content="Convert PDF to Word (DOCX) online for free. Fast, secure, and easy-to-use PDF to Word converter. No registration required.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://yourdomain.com/">
+    <meta property="og:image" content="https://yourdomain.com/og-image.png">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="PDF to Word Converter – Free, Fast & Secure Online Tool">
+    <meta name="twitter:description" content="Convert PDF to Word (DOCX) online for free. Fast, secure, and easy-to-use PDF to Word converter. No registration required.">
+    <meta name="twitter:image" content="https://yourdomain.com/og-image.png">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+</head>
+<body>
+  <main class="container">
+    <header class="header">
+      <h1 class="title">PDF to Word Converter</h1>
+    </header>
+    <section class="tool">
+      <div id="dropzone" class="dropzone" role="region" aria-label="File upload area">
+      <input type="file" id="fileInput" name="pdf" accept="application/pdf" multiple hidden aria-hidden="true" />
+      <div class="dz-icon" aria-hidden="true">📄</div>
+      <h3 class="dz-title">Drag & drop your PDF here</h3>
+      <p class="dz-sub">
+        or <button id="browseBtn" class="link-btn" type="button" aria-label="Browse for PDF files">browse</button> to upload
+      </p>
+      <p class="dz-hint">Max 25 MB • PDF only</p>
+      <div id="fileInfo" class="file-info" hidden></div>
+      <div class="loading" id="loading" hidden>Converting... <span class="spinner">⏳</span></div>
+      
+      <div class="progress-container" id="progressContainer" hidden>
+      <div class="progress-bar">
+        <div class="progress-bar-fill" id="progressBar"></div>
+      </div>
+      </div>
+      </div>
+      
+      <div id="actions" class="actions" hidden>
+      <button id="convertBtn" class="btn primary" disabled aria-label="Convert PDF(s) to Word">Convert to Word</button>
+      <button id="resetBtn" class="btn ghost" aria-label="Reset upload">Reset</button>
+    <div id="status" class="status" hidden></div>  
+    </div>
+      
+   </section>
+
+    <details class="info-section">
+      <summary class="section-title">How it works</summary>
+      <p>
+        <ol class="steps">
+        <li>Upload your PDF file (drag & drop or click browse).</li>
+        <li>Click <strong>Convert to Word</strong>.</li>
+        <li>Your .docx file downloads automatically.</li>
+      </ol>
+      </p>
+    </details>
+
+    <details class="info-section">
+      <summary class="section-title">Convert PDF to Word Online — Free, Fast & Secure</summary>
+      <p>
+        Instantly convert PDF files to editable Word documents (DOCX) online. Our free PDF to Word converter preserves formatting and works on any device. No registration, no watermarks, and your files are deleted after conversion for your privacy.
+      </p>
+    </details>
+
+    <details class="info-section">
+      <summary class="section-title">Why use our PDF to Word converter?</summary>
+      <ul>
+        <li>Free and unlimited conversions</li>
+        <li>Works on Windows, Mac, Linux, iOS, and Android</li>
+        <li>No email or sign-up required</li>
+        <li>Secure: files are deleted after download</li>
+        <li>High-quality conversion with formatting retention</li>
+      </ul>
+      <p>
+        Start converting your PDFs to Word documents now and enjoy fast, reliable, and secure results.
+      </p>
+    </details>
+
+    <details class="info-section">
+      <summary class="section-title">FAQ</summary>
+      <details>
+        <summary>Is it safe to upload my PDF?</summary>
+        <p>Yes. Your file is processed and removed automatically after conversion and download.</p>
+      </details>
+      <details>
+        <summary>Will the formatting stay the same?</summary>
+        <p>Most PDFs convert very well, but results can vary depending on the complexity of the PDF.</p>
+      </details>
+      <details>
+        <summary>Does this cost anything?</summary>
+        <p>No, it's 100% free to use. You can optionally support by sharing the site.</p>
+      </details>
+    </details>
+  </main>
+  <footer class="site-footer">
+    &copy; 2025 PDF to Word Converter. All rights reserved.
+  </footer>
+  <script src="pdfToWord.js"></script>
+</body>
+</html>

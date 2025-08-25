@@ -1,0 +1,70 @@
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found. Expected: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\e55595a465b2c56de42b46ec328fc561.docx or C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\ltr to estb.docx"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found. Expected: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\bc06c614d3ef1f3fd9ef1dd4e724a296.docx or C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\ltr to estb.docx"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found. Expected: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\6964b180fb3833cbc9fa209139fadfea.docx or C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\1751961956-Foundation-Level-V4.0-Study-Plan.docx"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found. Checked: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found. Checked: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"info","message":"Files in outputsDir: "}
+{"level":"error","message":"Converted file not found. Checked: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\ltr_to_estb.docx"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\1751961956-Foundation-Level-V4.0-Study-Plan.docx"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"No converted file found in C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\Ababil-ticket-2530-000724.docx"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\Ababil-ticket-2530-000724.docx"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"error","message":"Converted file not found: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\ltr to estb.docx"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\Test_Cases_for_Practice.docx"}
+{"level":"info","message":"LibreOffice found at: C:\\Program Files\\LibreOffice\\program\\soffice.exe"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\ABABIL APP DESIGN.docx"}
+{"level":"info","message":"Conversion succeeded. STDOUT: "}
+{"level":"error","message":"Converted file not found: C:\\PDF2Word\\pdf-to-word-converter\\src\\outputs\\ltr to estb.docx"}
